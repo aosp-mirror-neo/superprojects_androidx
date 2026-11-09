@@ -12,6 +12,7 @@
 /external/webview_support_interfaces remote-review=android
 /frameworks/support remote-review=android
 /golden remote-review=android
+/prebuilts/androidx/android-cli remote-review=android
 /prebuilts/androidx/chrome-for-testing remote-review=android
 /prebuilts/androidx/credentials remote-review=android
 /prebuilts/androidx/exoplayer remote-review=android

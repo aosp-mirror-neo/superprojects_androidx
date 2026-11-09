@@ -66,6 +66,11 @@
 	shallow = true
 	path = golden
 	url = ../../platform/frameworks/support-golden
+[submodule "platform/prebuilts/androidx/android-cli"]
+	branch = androidx-main
+	shallow = true
+	path = prebuilts/androidx/android-cli
+	url = ../../platform/prebuilts/androidx/android-cli
 [submodule "platform/prebuilts/androidx/chrome-for-testing"]
 	branch = androidx-main
 	shallow = true
